@@ -1,10 +1,3 @@
-Demographic Data Report for United States by County
-Education: At least bachelor's degree
-Population Ages 25+
-"All Races (includes Hispanic), Both Sexes"
-2018-2022 American Community Survey 5-Year Data
-Sorted by Value
-
 County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),Value (Percent),People (Education: At Least Bachelor's Degree),Rank within US
 "United States",00000,N/A,34.3,77751347,"N/A"
 "Falls Church City, Virginia",51610,Urban,78.9,7660,"1 of 3143"
