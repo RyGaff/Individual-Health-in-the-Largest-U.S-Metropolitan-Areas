@@ -1,22 +1,22 @@
 County,Model-Based Percent-colonoscopy,Lower 95% Confidence Interval-colonoscopy,Upper 95% Confidence Interval-colonoscopy,Rural-Urban Continuum_x0,Value (Dollars),Rank within US_x1,Rural-Urban Continuum_y0,Value (Index),Rural-Urban Continuum,Value (Percent),People (Education: At Least Bachelor's Degree),Rank within US_y1,Model-Based Percent-pap_smear,Lower 95% Confidence Interval-pap_smear,Upper 95% Confidence Interval-pap_smear,Cluster,DBSCAN_Cluster,HDBSCAN_Cluster
-"Prince William County, Virginia",72.3,63.8,80.4,Urban,123193.0,26 of 3142,Urban,0.4117,Urban,43.7,134907.0,160 of 3143,74.7,65.3,83.7,2,-1,-1
-"Calvert County, Maryland",68.9,58.5,79.2,Urban,128078.0,19 of 3142,Urban,0.0057,Urban,35.6,22831.0,364 of 3143,76.2,64.6,87.1,2,-1,-1
-"Frederick County, Maryland",68.7,59.2,78.3,Urban,115724.0,47 of 3142,Urban,0.1234,Urban,43.6,81479.0,161 of 3143,71.2,61.0,81.3,2,-1,-1
-"Charles County, Maryland",67.8,58.2,77.5,Urban,116882.0,42 of 3142,Urban,0.174,Urban,31.1,34977.0,600 of 3143,79.6,71.8,86.8,2,-1,-1
-"Fauquier County, Virginia",66.9,54.5,78.8,Urban,122785.0,27 of 3142,Urban,0.0732,Urban,39.4,19854.0,240 of 3143,84.7,72.8,94.6,2,-1,-1
-"Stafford County, Virginia",66.9,55.6,77.9,Urban,128036.0,20 of 3142,Urban,0.2428,Urban,43.1,43734.0,174 of 3143,75.6,63.0,87.1,2,-1,-1
-"Falls Church City, Virginia",64.6,49.8,78.7,Urban,164536.0,2 of 3142,Urban,0.2189,Urban,78.9,7660.0,1 of 3143,77.2,62.2,90.0,0,-1,-1
-"Fairfax County, Virginia",63.9,55.7,72.1,Urban,145165.0,5 of 3142,Urban,0.2412,Urban,64.1,501649.0,5 of 3143,79.0,70.8,86.7,0,-1,-1
-"Montgomery County, Maryland",63.6,55.8,71.5,Urban,125583.0,23 of 3142,Urban,0.4893,Urban,60.0,438124.0,21 of 3143,79.1,72.4,85.4,0,-1,-1
+"Prince William County, Virginia",72.3,63.8,80.4,Urban,123193.0,26 of 3142,Urban,0.4117,Urban,43.7,134907.0,160 of 3143,74.7,65.3,83.7,0,-1,-1
+"Calvert County, Maryland",68.9,58.5,79.2,Urban,128078.0,19 of 3142,Urban,0.0057,Urban,35.6,22831.0,364 of 3143,76.2,64.6,87.1,0,-1,-1
+"Frederick County, Maryland",68.7,59.2,78.3,Urban,115724.0,47 of 3142,Urban,0.1234,Urban,43.6,81479.0,161 of 3143,71.2,61.0,81.3,0,-1,-1
+"Charles County, Maryland",67.8,58.2,77.5,Urban,116882.0,42 of 3142,Urban,0.174,Urban,31.1,34977.0,600 of 3143,79.6,71.8,86.8,0,-1,-1
+"Fauquier County, Virginia",66.9,54.5,78.8,Urban,122785.0,27 of 3142,Urban,0.0732,Urban,39.4,19854.0,240 of 3143,84.7,72.8,94.6,0,-1,-1
+"Stafford County, Virginia",66.9,55.6,77.9,Urban,128036.0,20 of 3142,Urban,0.2428,Urban,43.1,43734.0,174 of 3143,75.6,63.0,87.1,0,-1,-1
+"Falls Church City, Virginia",64.6,49.8,78.7,Urban,164536.0,2 of 3142,Urban,0.2189,Urban,78.9,7660.0,1 of 3143,77.2,62.2,90.0,2,-1,-1
+"Fairfax County, Virginia",63.9,55.7,72.1,Urban,145165.0,5 of 3142,Urban,0.2412,Urban,64.1,501649.0,5 of 3143,79.0,70.8,86.7,2,-1,-1
+"Montgomery County, Maryland",63.6,55.8,71.5,Urban,125583.0,23 of 3142,Urban,0.4893,Urban,60.0,438124.0,21 of 3143,79.1,72.4,85.4,2,-1,-1
 "Jefferson County, West Virginia",63.3,51.0,75.3,Urban,93744.0,169 of 3142,Urban,0.217,Urban,32.2,12988.0,530 of 3143,71.7,57.9,84.6,1,-1,-1
-"Arlington County, Virginia",62.8,54.7,70.7,Urban,137387.0,10 of 3142,Urban,0.1597,Urban,76.8,132890.0,2 of 3143,76.6,66.3,86.2,0,-1,-1
+"Arlington County, Virginia",62.8,54.7,70.7,Urban,137387.0,10 of 3142,Urban,0.1597,Urban,76.8,132890.0,2 of 3143,76.6,66.3,86.2,2,-1,-1
 "Fredericksburg City, Virginia",62.8,49.7,75.4,Urban,83445.0,312 of 3142,Urban,0.7636,Urban,43.5,7346.0,163 of 3143,67.8,51.1,83.1,1,-1,-1
-District of Columbia,61.6,55.1,68.0,Urban,101722.0,103 of 3142,Urban,0.6262,Urban,62.6,303532.0,11 of 3143,79.7,72.5,86.5,1,-1,-1
+District of Columbia,61.6,55.1,68.0,Urban,101722.0,103 of 3142,Urban,0.6262,Urban,62.6,303532.0,11 of 3143,79.7,72.5,86.5,2,-1,-1
 "Prince Georges County, Maryland",61.6,53.9,69.4,Urban,97935.0,131 of 3142,Urban,0.8161,Urban,35.6,233832.0,360 of 3143,83.9,77.2,90.1,1,-1,-1
 "Manassas City, Virginia",60.1,45.6,74.1,Urban,110559.0,59 of 3142,Urban,0.4884,Urban,34.5,9563.0,417 of 3143,72.3,55.7,86.9,1,-1,-1
-"Alexandria City, Virginia",58.4,46.2,70.5,Urban,113179.0,53 of 3142,Urban,0.3178,Urban,66.0,78982.0,4 of 3143,75.4,62.8,86.8,0,-1,-1
-"Fairfax City, Virginia",58.4,45.6,71.3,Urban,128708.0,18 of 3142,Urban,0.3551,Urban,60.1,9803.0,20 of 3143,80.6,68.6,91.2,0,-1,-1
+"Alexandria City, Virginia",58.4,46.2,70.5,Urban,113179.0,53 of 3142,Urban,0.3178,Urban,66.0,78982.0,4 of 3143,75.4,62.8,86.8,2,-1,-1
+"Fairfax City, Virginia",58.4,45.6,71.3,Urban,128708.0,18 of 3142,Urban,0.3551,Urban,60.1,9803.0,20 of 3143,80.6,68.6,91.2,2,-1,-1
 "Spotsylvania County, Virginia",58.3,46.5,69.9,Urban,105068.0,83 of 3142,Urban,0.2654,Urban,33.3,31461.0,467 of 3143,73.6,62.0,84.5,1,-1,-1
 "Manassas Park City, Virginia",56.7,40.4,72.3,Urban,91673.0,198 of 3142,Urban,0.6532,Urban,25.0,2847.0,1035 of 3143,77.0,58.6,92.0,1,-1,-1
-"Loudoun County, Virginia",54.2,45.8,62.7,Urban,170463.0,1 of 3142,Urban,0.1059,Urban,63.5,173221.0,7 of 3143,76.9,67.2,85.8,0,-1,-1
+"Loudoun County, Virginia",54.2,45.8,62.7,Urban,170463.0,1 of 3142,Urban,0.1059,Urban,63.5,173221.0,7 of 3143,76.9,67.2,85.8,2,-1,-1
 "Warren County, Virginia",53.7,41.0,66.6,Urban,79313.0,428 of 3142,Urban,0.496,Urban,22.4,6423.0,1366 of 3143,69.5,53.5,84.2,1,-1,-1
